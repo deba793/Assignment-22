@@ -1,0 +1,8 @@
+E:\Day-19\Assignment-22\Assignment-22\bin\Debug\Assignment-22.exe.config
+E:\Day-19\Assignment-22\Assignment-22\bin\Debug\Assignment-22.exe
+E:\Day-19\Assignment-22\Assignment-22\bin\Debug\Assignment-22.pdb
+E:\Day-19\Assignment-22\Assignment-22\obj\Debug\Assignment-22.csproj.AssemblyReference.cache
+E:\Day-19\Assignment-22\Assignment-22\obj\Debug\Assignment-22.csproj.SuggestedBindingRedirects.cache
+E:\Day-19\Assignment-22\Assignment-22\obj\Debug\Assignment-22.csproj.CoreCompileInputs.cache
+E:\Day-19\Assignment-22\Assignment-22\obj\Debug\Assignment-22.exe
+E:\Day-19\Assignment-22\Assignment-22\obj\Debug\Assignment-22.pdb
